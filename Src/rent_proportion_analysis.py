@@ -113,11 +113,11 @@ def predict_rent_2021(cost_of_living_df):
 
 
 
-cost_of_living_df = pd.read_csv('../Datasets/Cost-of-Living-By-SA2-Year-2006-2011-2016.csv')
-#cost_of_living_df = pd.read_csv('../Datasets/Adjusted-Cost-of-Living-By-SA2-Year-2006-2011-2016.csv')
+cost_of_living_df = pd.read_csv('../OutputCSV/Cost-of-Living-By-SA2-Year-2006-2011-2016.csv')
+#cost_of_living_df = pd.read_csv('../OutputCSV/Adjusted-Cost-of-Living-By-SA2-Year-2006-2011-2016.csv')
 #count_cost_of_living(cost_of_living_df)
 #plot_average_rent_over_years(cost_of_living_df)
 predicted_cost_of_living_df = predict_rent_2021(cost_of_living_df)
-predicted_cost_of_living_df.to_csv('../Datasets/Predicted-Cost-of-Living-By-SA2-Year.csv')
+predicted_cost_of_living_df.to_csv('../OutputCSV/Predicted-Cost-of-Living-By-SA2-Year.csv')
 count_cost_of_living(predicted_cost_of_living_df)
 

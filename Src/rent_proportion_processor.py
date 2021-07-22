@@ -41,8 +41,6 @@ def calculate_average_bedrooms_df():
     dwelling_df['Number of Bedrooms'] = dwelling_df['Number of Bedrooms'].apply(bedroom_string_to_int)
 
     # Essentially the cleaned dwelling_df, but sorted for better viewing.
-    # Probably better to use set_index... but the below set_index is
-    # returning errors and I'm too lazy to fix it atm :)
     dwelling_df = dwelling_df.groupby(
         ['Region', 'Dwelling Structure', 'Census year', 'Number of Bedrooms']
     ).sum()
@@ -59,8 +57,6 @@ def calculate_average_bedrooms_df():
 
     # This loop may take a while on your machine, give it a minute or two
     for index, row in dwelling_groups_totals_df.iterrows():
-        # print('INDEX: ' + str(index))
-        # print('ROW: ' + str(row))
         mean = 0
         # Avoid division by 0 errors in below loop
         if row['Total'] == 0:
@@ -73,7 +69,7 @@ def calculate_average_bedrooms_df():
         dwelling_groups_totals_df.loc[index, 'Average Bedrooms'] = mean
 
 
-    # TEST: Just a cheeky save to peruse the results :D
+    # TEST: Just a save to peruse the results :D
     # dwelling_df.to_csv('../Datasets/dwelling-test.csv')
     # dwelling_groups_df.to_csv('../Datasets/dwelling-groups-sum-test.csv')
     # dwelling_groups_totals_df.to_csv('../Datasets/dwelling-groups-totals-test.csv')
@@ -152,7 +148,7 @@ def calculate_average_rent(average_bedrooms_df):
             mean += mean_dwelling_rent * total_dwelling_count / total_rental_properties
         weekly_rent_region_totals_df.loc[index, 'Mean rent per person'] = mean
 
-    # TEST: Have a looksie, see if everything is all good
+    # TEST: Have a look, see if everything is all good
     # weekly_rent_df.to_csv('../Datasets/weekly-rent-test.csv')
     # weekly_rent_dwelling_totals_df.to_csv('../Datasets/weekly-rent-dwelling-totals-test.csv')
     # weekly_rent_region_totals_df.to_csv('../Datasets/weekly-rent-region-totals-test.csv')
@@ -161,7 +157,6 @@ def calculate_average_rent(average_bedrooms_df):
 
 
 def calculate_cost_proportion(average_rent_per_person_srs, cost_of_living, centrelink_weekly_income):
-    # Need to find data for weekly centrlink income for 2006, 2011
     cost_of_living_proportion_srs = average_rent_per_person_srs.apply(
         lambda x: (x + cost_of_living) / centrelink_weekly_income
     )
@@ -173,13 +168,12 @@ def calculate_cost_proportion(average_rent_per_person_srs, cost_of_living, centr
     return cost_of_living_proportion_srs
 
 
-# Run the below if the dfs needs to be reconstructed, otherwise
-# save your poor computer the trouble and load them instead!
+# Run the below if the dfs needs to be reconstructed
 # average_bedrooms_df = calculate_average_bedrooms_df()
 # average_bedrooms_df.to_csv('../Datasets/Average-Number-of-Bedrooms-Per-Dwelling-Structure-2006-2011-2016-test.csv')
 # average_rent_per_person_df = calculate_average_rent(average_bedrooms_df)
 
-# Otherwise save your poor compute the trouble and load them insted!
+# Otherwise save your poor computer the trouble and load them instead!
 average_bedrooms_df = pd.read_csv('../Datasets/Average-Number-of-Bedrooms-Per-Dwelling-Structure-2006-2011-2016.csv', encoding = 'ISO-8859-1')
 average_bedrooms_df.set_index(['Region', 'Dwelling Structure', 'Census year'], inplace=True)
 average_rent_per_person_df = pd.read_csv('../Datasets/Average-Weekly-Rent-Per-Person-2006-2011-2016.csv')
@@ -233,5 +227,5 @@ cost_of_living_df = average_rent_per_person_df.reindex(
 )
 cost_of_living_df.sort_values(by=['Region', 'Census year'], inplace=True)
 
-cost_of_living_df.to_csv('../Datasets/Cost-of-Living-By-SA2-Year-2006-2011-2016.csv')
-# cost_of_living_proportion_df.to_csv('../Datasets/Adjusted-Cost-of-Living-By-SA2-Year-2006-2011-2016.csv')
+cost_of_living_df.to_csv('../OutputCSV/Cost-of-Living-By-SA2-Year-2006-2011-2016.csv')
+# cost_of_living_proportion_df.to_csv('../OutputCSV/Adjusted-Cost-of-Living-By-SA2-Year-2006-2011-2016.csv')
