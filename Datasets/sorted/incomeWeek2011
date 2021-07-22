@@ -1,0 +1,495 @@
+Weekly Income,Region,Population
+$1-$199       ,Brunswick - Coburg,4278
+$1-$199       ,Essendon,3524
+$1-$199       ,Melbourne City,5210
+$1-$199       ,Port Phillip,3176
+$1-$199       ,Stonnington - West,2060
+$1-$199       ,Yarra,3429
+$1-$199       ,Boroondara,10266
+$1-$199       ,Manningham - West,6282
+$1-$199       ,Whitehorse - West,6688
+$1-$199       ,Bayside,5496
+$1-$199       ,Glen Eira,7933
+$1-$199       ,Kingston,6609
+$1-$199       ,Stonnington - East,2271
+$1-$199       ,Banyule,7735
+$1-$199       ,Darebin - North,5774
+$1-$199       ,Nillumbik - Kinglake,4517
+$1-$199       ,Whittlesea - Wallan,11115
+$1-$199       ,Keilor,3623
+$1-$199       ,Macedon Ranges,1854
+$1-$199       ,Moreland - North,4241
+$1-$199       ,Sunbury,2395
+$1-$199       ,Tullamarine - Broadmeadows,9895
+$1-$199       ,Knox,10594
+$1-$199       ,Manningham - East,1743
+$1-$199       ,Maroondah,6924
+$1-$199       ,Whitehorse - East,3906
+$1-$199       ,Yarra Ranges,9872
+$1-$199       ,Cardinia,4551
+$1-$199       ,Casey - North,8419
+$1-$199       ,Casey - South,7829
+$1-$199       ,Dandenong,11862
+$1-$199       ,Monash,11675
+$1-$199       ,Brimbank,12415
+$1-$199       ,Hobsons Bay,4790
+$1-$199       ,Maribyrnong,4255
+$1-$199       ,Wyndham,10047
+$200-$299   ,Brunswick - Coburg,7537
+$200-$299   ,Darebin - South,4192
+$200-$299   ,Essendon,4371
+$200-$299   ,Melbourne City,5516
+$200-$299   ,Port Phillip,4809
+$200-$299   ,Stonnington - West,2817
+$200-$299   ,Yarra,5678
+$200-$299   ,Boroondara,8180
+$200-$299   ,Manningham - West,7364
+$200-$299   ,Whitehorse - West,7346
+$200-$299   ,Bayside,4739
+$200-$299   ,Glen Eira,8877
+$200-$299   ,Kingston,7684
+$200-$299   ,Stonnington - East,2108
+$200-$299   ,Banyule,9002
+$200-$299   ,Nillumbik - Kinglake,3469
+$200-$299   ,Whittlesea - Wallan,15752
+$200-$299   ,Macedon Ranges,1653
+$200-$299   ,Moreland - North,7445
+$200-$299   ,Tullamarine - Broadmeadows,14213
+$200-$299   ,Knox,10989
+$200-$299   ,Manningham - East,1500
+$200-$299   ,Maroondah,7377
+$200-$299   ,Whitehorse - East,4452
+$200-$299   ,Yarra Ranges,10615
+$200-$299   ,Cardinia,5362
+$200-$299   ,Casey - North,9965
+$200-$299   ,Casey - South,8858
+$200-$299   ,Monash,13788
+$200-$299   ,Brimbank,20409
+$200-$299   ,Hobsons Bay,6922
+$200-$299   ,Maribyrnong,6541
+$200-$299   ,Melton - Bacchus Marsh,8821
+$300-$399,Brunswick - Coburg,6322
+$300-$399,Darebin - South,3702
+$300-$399,Essendon,4254
+$300-$399,Melbourne City,4601
+$300-$399,Port Phillip,5059
+$300-$399,Stonnington - West,2746
+$300-$399,Yarra,4976
+$300-$399,Boroondara,8590
+$300-$399,Manningham - West,6435
+$300-$399,Whitehorse - West,7162
+$300-$399,Bayside,5442
+$300-$399,Glen Eira,9324
+$300-$399,Kingston,8393
+$300-$399,Stonnington - East,2150
+$300-$399,Banyule,8966
+$300-$399,Darebin - North,8281
+$300-$399,Nillumbik - Kinglake,3720
+$300-$399,Whittlesea - Wallan,11597
+$300-$399,Keilor,4672
+$300-$399,Macedon Ranges,1739
+$300-$399,Moreland - North,6318
+$300-$399,Sunbury,2624
+$300-$399,Tullamarine - Broadmeadows,9801
+$300-$399,Knox,11000
+$300-$399,Manningham - East,1574
+$300-$399,Maroondah,8237
+$300-$399,Whitehorse - East,4481
+$300-$399,Yarra Ranges,11267
+$300-$399,Cardinia,5316
+$300-$399,Casey - North,8581
+$300-$399,Casey - South,8092
+$300-$399,Dandenong,15230
+$300-$399,Monash,12408
+$300-$399,Brimbank,14008
+$300-$399,Hobsons Bay,6237
+$300-$399,Maribyrnong,5438
+$300-$399,Melton - Bacchus Marsh,7769
+$300-$399,Wyndham,9297
+$400-$599,Brunswick - Coburg,7099
+$400-$599,Darebin - South,4100
+$400-$599,Essendon,4620
+$400-$599,Melbourne City,6104
+$400-$599,Port Phillip,6042
+$400-$599,Stonnington - West,3442
+$400-$599,Yarra,5444
+$400-$599,Boroondara,11573
+$400-$599,Manningham - West,8161
+$400-$599,Whitehorse - West,8543
+$400-$599,Bayside,7084
+$400-$599,Glen Eira,11710
+$400-$599,Stonnington - East,2728
+$400-$599,Banyule,11057
+$400-$599,Darebin - North,8247
+$400-$599,Nillumbik - Kinglake,5398
+$400-$599,Whittlesea - Wallan,14629
+$400-$599,Keilor,5047
+$400-$599,Macedon Ranges,2374
+$400-$599,Moreland - North,6291
+$400-$599,Sunbury,3274
+$400-$599,Knox,14079
+$400-$599,Manningham - East,2214
+$400-$599,Maroondah,10213
+$400-$599,Whitehorse - East,5479
+$400-$599,Yarra Ranges,14540
+$400-$599,Cardinia,6809
+$400-$599,Casey - North,10618
+$400-$599,Casey - South,10954
+$400-$599,Dandenong,16762
+$400-$599,Monash,15064
+$400-$599,Brimbank,15209
+$400-$599,Hobsons Bay,6529
+$400-$599,Maribyrnong,5753
+$400-$599,Melton - Bacchus Marsh,10109
+$400-$599,Wyndham,12864
+$600-$799,Brunswick - Coburg,6521
+$600-$799,Darebin - South,3803
+$600-$799,Essendon,4491
+$600-$799,Melbourne City,6293
+$600-$799,Port Phillip,6517
+$600-$799,Yarra,5288
+$600-$799,Boroondara,10316
+$600-$799,Manningham - West,6953
+$600-$799,Whitehorse - West,7165
+$600-$799,Bayside,5911
+$600-$799,Glen Eira,10436
+$600-$799,Stonnington - East,2718
+$600-$799,Banyule,9409
+$600-$799,Darebin - North,7236
+$600-$799,Nillumbik - Kinglake,5010
+$600-$799,Whittlesea - Wallan,15268
+$600-$799,Keilor,4316
+$600-$799,Macedon Ranges,1975
+$600-$799,Moreland - North,5409
+$600-$799,Sunbury,3269
+$600-$799,Knox,13554
+$600-$799,Manningham - East,1906
+$600-$799,Maroondah,9230
+$600-$799,Whitehorse - East,4616
+$600-$799,Yarra Ranges,13390
+$600-$799,Cardinia,6710
+$600-$799,Casey - North,11238
+$600-$799,Casey - South,13045
+$600-$799,Dandenong,16932
+$600-$799,Monash,13003
+$600-$799,Brimbank,15673
+$600-$799,Hobsons Bay,6131
+$600-$799,Maribyrnong,5700
+$600-$799,Melton - Bacchus Marsh,10912
+$600-$799,Wyndham,14248
+$800-$999 ,Brunswick - Coburg,5539
+$800-$999 ,Darebin - South,3419
+$800-$999 ,Melbourne City,6087
+$800-$999 ,Port Phillip,6905
+$800-$999 ,Stonnington - West,4034
+$800-$999 ,Yarra,5312
+$800-$999 ,Boroondara,9503
+$800-$999 ,Manningham - West,5527
+$800-$999 ,Whitehorse - West,5729
+$800-$999 ,Bayside,4942
+$800-$999 ,Glen Eira,9091
+$800-$999 ,Kingston,7761
+$800-$999 ,Stonnington - East,2373
+$800-$999 ,Banyule,8162
+$800-$999 ,Darebin - North,5599
+$800-$999 ,Whittlesea - Wallan,12646
+$800-$999 ,Keilor,3785
+$800-$999 ,Macedon Ranges,1745
+$800-$999 ,Moreland - North,4276
+$800-$999 ,Tullamarine - Broadmeadows,8666
+$800-$999 ,Knox,11702
+$800-$999 ,Manningham - East,1585
+$800-$999 ,Maroondah,7683
+$800-$999 ,Whitehorse - East,3947
+$800-$999 ,Yarra Ranges,10717
+$800-$999 ,Cardinia,5726
+$800-$999 ,Casey - North,9143
+$800-$999 ,Casey - South,10557
+$800-$999 ,Dandenong,11463
+$800-$999 ,Monash,10573
+$800-$999 ,Brimbank,11857
+$800-$999 ,Hobsons Bay,5330
+$800-$999 ,Melton - Bacchus Marsh,9407
+$800-$999 ,Wyndham,12791
+"$1,000-$1,249  ",Brunswick - Coburg,5959
+"$1,000-$1,249  ",Essendon,4447
+"$1,000-$1,249  ",Melbourne City,7327
+"$1,000-$1,249  ",Port Phillip,8121
+"$1,000-$1,249  ",Stonnington - West,4612
+"$1,000-$1,249  ",Yarra,6293
+"$1,000-$1,249  ",Boroondara,10405
+"$1,000-$1,249  ",Manningham - West,5435
+"$1,000-$1,249  ",Whitehorse - West,5762
+"$1,000-$1,249  ",Bayside,5490
+"$1,000-$1,249  ",Glen Eira,9353
+"$1,000-$1,249  ",Kingston,7917
+"$1,000-$1,249  ",Stonnington - East,2533
+"$1,000-$1,249  ",Banyule,8381
+"$1,000-$1,249  ",Darebin - North,5383
+"$1,000-$1,249  ",Nillumbik - Kinglake,4504
+"$1,000-$1,249  ",Whittlesea - Wallan,11135
+"$1,000-$1,249  ",Keilor,3719
+"$1,000-$1,249  ",Moreland - North,4007
+"$1,000-$1,249  ",Sunbury,2794
+"$1,000-$1,249  ",Tullamarine - Broadmeadows,7355
+"$1,000-$1,249  ",Knox,11038
+"$1,000-$1,249  ",Manningham - East,1660
+"$1,000-$1,249  ",Maroondah,7690
+"$1,000-$1,249  ",Whitehorse - East,3823
+"$1,000-$1,249  ",Yarra Ranges,10131
+"$1,000-$1,249  ",Cardinia,5236
+"$1,000-$1,249  ",Casey - North,8370
+"$1,000-$1,249  ",Casey - South,9036
+"$1,000-$1,249  ",Dandenong,8683
+"$1,000-$1,249  ",Brimbank,9698
+"$1,000-$1,249  ",Hobsons Bay,5309
+"$1,000-$1,249  ",Maribyrnong,4714
+"$1,000-$1,249  ",Melton - Bacchus Marsh,8916
+"$1,000-$1,249  ",Wyndham,12075
+"$1,250-$1,499",Brunswick - Coburg,4633
+"$1,250-$1,499",Darebin - South,2746
+"$1,250-$1,499",Essendon,3343
+"$1,250-$1,499",Melbourne City,5889
+"$1,250-$1,499",Port Phillip,6679
+"$1,250-$1,499",Stonnington - West,3786
+"$1,250-$1,499",Yarra,5188
+"$1,250-$1,499",Boroondara,8103
+"$1,250-$1,499",Manningham - West,3940
+"$1,250-$1,499",Whitehorse - West,4224
+"$1,250-$1,499",Bayside,4309
+"$1,250-$1,499",Glen Eira,7289
+"$1,250-$1,499",Kingston,5709
+"$1,250-$1,499",Stonnington - East,2121
+"$1,250-$1,499",Banyule,6336
+"$1,250-$1,499",Darebin - North,3552
+"$1,250-$1,499",Whittlesea - Wallan,6848
+"$1,250-$1,499",Keilor,2655
+"$1,250-$1,499",Macedon Ranges,1305
+"$1,250-$1,499",Moreland - North,2750
+"$1,250-$1,499",Sunbury,1845
+"$1,250-$1,499",Tullamarine - Broadmeadows,4368
+"$1,250-$1,499",Knox,7437
+"$1,250-$1,499",Manningham - East,1352
+"$1,250-$1,499",Maroondah,5228
+"$1,250-$1,499",Whitehorse - East,2801
+"$1,250-$1,499",Yarra Ranges,6569
+"$1,250-$1,499",Cardinia,3351
+"$1,250-$1,499",Casey - North,5342
+"$1,250-$1,499",Dandenong,4835
+"$1,250-$1,499",Monash,7266
+"$1,250-$1,499",Brimbank,5545
+"$1,250-$1,499",Hobsons Bay,3889
+"$1,250-$1,499",Maribyrnong,3511
+"$1,250-$1,499",Melton - Bacchus Marsh,5755
+"$1,250-$1,499",Wyndham,7968
+"$1,500-$1,999",Brunswick - Coburg,5106
+"$1,500-$1,999",Darebin - South,3394
+"$1,500-$1,999",Essendon,4326
+"$1,500-$1,999",Melbourne City,6945
+"$1,500-$1,999",Port Phillip,8576
+"$1,500-$1,999",Stonnington - West,4694
+"$1,500-$1,999",Yarra,6512
+"$1,500-$1,999",Boroondara,10862
+"$1,500-$1,999",Manningham - West,4794
+"$1,500-$1,999",Whitehorse - West,5405
+"$1,500-$1,999",Glen Eira,8855
+"$1,500-$1,999",Kingston,6636
+"$1,500-$1,999",Stonnington - East,2636
+"$1,500-$1,999",Darebin - North,3382
+"$1,500-$1,999",Nillumbik - Kinglake,4395
+"$1,500-$1,999",Whittlesea - Wallan,6175
+"$1,500-$1,999",Keilor,2856
+"$1,500-$1,999",Macedon Ranges,1626
+"$1,500-$1,999",Moreland - North,2634
+"$1,500-$1,999",Sunbury,1937
+"$1,500-$1,999",Tullamarine - Broadmeadows,3731
+"$1,500-$1,999",Knox,7913
+"$1,500-$1,999",Manningham - East,1612
+"$1,500-$1,999",Maroondah,5739
+"$1,500-$1,999",Whitehorse - East,3492
+"$1,500-$1,999",Casey - North,5217
+"$1,500-$1,999",Casey - South,4333
+"$1,500-$1,999",Dandenong,4012
+"$1,500-$1,999",Monash,8698
+"$1,500-$1,999",Brimbank,4682
+"$1,500-$1,999",Hobsons Bay,4551
+"$1,500-$1,999",Maribyrnong,4073
+"$1,500-$1,999",Melton - Bacchus Marsh,5341
+"$1,500-$1,999",Wyndham,7959
+"$2,000 or more ",Brunswick - Coburg,4372
+"$2,000 or more ",Darebin - South,3641
+"$2,000 or more ",Essendon,5064
+"$2,000 or more ",Melbourne City,9060
+"$2,000 or more ",Port Phillip,12813
+"$2,000 or more ",Stonnington - West,8146
+"$2,000 or more ",Yarra,8434
+"$2,000 or more ",Boroondara,21295
+"$2,000 or more ",Manningham - West,5378
+"$2,000 or more ",Whitehorse - West,6168
+"$2,000 or more ",Bayside,12244
+"$2,000 or more ",Glen Eira,11420
+"$2,000 or more ",Kingston,5950
+"$2,000 or more ",Stonnington - East,5215
+"$2,000 or more ",Banyule,6758
+"$2,000 or more ",Darebin - North,2330
+"$2,000 or more ",Nillumbik - Kinglake,4473
+"$2,000 or more ",Whittlesea - Wallan,3324
+"$2,000 or more ",Keilor,2566
+"$2,000 or more ",Macedon Ranges,1532
+"$2,000 or more ",Moreland - North,1635
+"$2,000 or more ",Sunbury,1298
+"$2,000 or more ",Tullamarine - Broadmeadows,1961
+"$2,000 or more ",Knox,5663
+"$2,000 or more ",Manningham - East,2340
+"$2,000 or more ",Whitehorse - East,3088
+"$2,000 or more ",Yarra Ranges,4672
+"$2,000 or more ",Cardinia,2074
+"$2,000 or more ",Casey - North,3690
+"$2,000 or more ",Casey - South,2254
+"$2,000 or more ",Dandenong,2233
+"$2,000 or more ",Monash,8451
+"$2,000 or more ",Brimbank,2607
+"$2,000 or more ",Hobsons Bay,4555
+"$2,000 or more ",Maribyrnong,3469
+"$2,000 or more ",Melton - Bacchus Marsh,3066
+"$2,000 or more ",Wyndham,5386
+Personal income not stated,Brunswick - Coburg,5214
+Personal income not stated,Darebin - South,2845
+Personal income not stated,Essendon,4147
+Personal income not stated,Melbourne City,10779
+Personal income not stated,Port Phillip,7977
+Personal income not stated,Stonnington - West,4937
+Personal income not stated,Yarra,5944
+Personal income not stated,Boroondara,8337
+Personal income not stated,Whitehorse - West,5369
+Personal income not stated,Bayside,5663
+Personal income not stated,Glen Eira,8068
+Personal income not stated,Kingston,6579
+Personal income not stated,Stonnington - East,2288
+Personal income not stated,Banyule,6015
+Personal income not stated,Darebin - North,6914
+Personal income not stated,Nillumbik - Kinglake,2684
+Personal income not stated,Whittlesea - Wallan,10155
+Personal income not stated,Keilor,3106
+Personal income not stated,Moreland - North,5344
+Personal income not stated,Sunbury,1996
+Personal income not stated,Tullamarine - Broadmeadows,8861
+Personal income not stated,Manningham - East,1099
+Personal income not stated,Maroondah,5306
+Personal income not stated,Whitehorse - East,2600
+Personal income not stated,Yarra Ranges,7748
+Personal income not stated,Cardinia,3982
+Personal income not stated,Casey - North,6370
+Personal income not stated,Casey - South,6642
+Personal income not stated,Dandenong,11342
+Personal income not stated,Monash,8595
+Personal income not stated,Brimbank,13709
+Personal income not stated,Hobsons Bay,5158
+Personal income not stated,Maribyrnong,6067
+Personal income not stated,Wyndham,10029
+Total,Brunswick - Coburg,67406
+Total,Darebin - South,40564
+Total,Essendon,50497
+Total,Melbourne City,86974
+Total,Port Phillip,81334
+Total,Yarra,65945
+Total,Boroondara,131416
+Total,Manningham - West,72512
+Total,Whitehorse - West,79024
+Total,Bayside,73816
+Total,Glen Eira,113159
+Total,Kingston,89158
+Total,Stonnington - East,32479
+Total,Banyule,97232
+Total,Darebin - North,73663
+Total,Nillumbik - Kinglake,50561
+Total,Whittlesea - Wallan,131691
+Total,Keilor,45640
+Total,Macedon Ranges,20719
+Total,Moreland - North,55369
+Total,Sunbury,29119
+Total,Tullamarine - Broadmeadows,101866
+Total,Knox,121693
+Total,Manningham - East,20561
+Total,Maroondah,84017
+Total,Whitehorse - East,46740
+Total,Yarra Ranges,115065
+Total,Cardinia,56959
+Total,Casey - North,97086
+Total,Casey - South,96703
+Total,Dandenong,139150
+Total,Monash,137150
+Total,Brimbank,140979
+Total,Maribyrnong,59768
+Total,Melton - Bacchus Marsh,94180
+Total,Wyndham,126945
+Negative/Nil income,Brunswick - Coburg,4826
+Negative/Nil income,Darebin - South,2520
+Negative/Nil income,Essendon,3974
+Negative/Nil income,Melbourne City,13163
+Negative/Nil income,Port Phillip,4660
+Negative/Nil income,Stonnington - West,3438
+Negative/Nil income,Yarra,3447
+Negative/Nil income,Boroondara,13986
+Negative/Nil income,Manningham - West,8043
+Negative/Nil income,Whitehorse - West,9463
+Negative/Nil income,Bayside,6632
+Negative/Nil income,Glen Eira,10803
+Negative/Nil income,Kingston,6697
+Negative/Nil income,Stonnington - East,3338
+Negative/Nil income,Banyule,7990
+Negative/Nil income,Darebin - North,7173
+Negative/Nil income,Nillumbik - Kinglake,4590
+Negative/Nil income,Whittlesea - Wallan,13047
+Negative/Nil income,Keilor,3755
+Negative/Nil income,Macedon Ranges,1819
+Negative/Nil income,Moreland - North,5019
+Negative/Nil income,Sunbury,2355
+Negative/Nil income,Tullamarine - Broadmeadows,10559
+Negative/Nil income,Knox,10775
+Negative/Nil income,Manningham - East,1976
+Negative/Nil income,Maroondah,6109
+Negative/Nil income,Whitehorse - East,4055
+Negative/Nil income,Yarra Ranges,8853
+Negative/Nil income,Cardinia,4682
+Negative/Nil income,Casey - North,10133
+Negative/Nil income,Casey - South,9907
+Negative/Nil income,Dandenong,16140
+Negative/Nil income,Monash,17494
+Negative/Nil income,Brimbank,15167
+Negative/Nil income,Hobsons Bay,5569
+Negative/Nil income,Maribyrnong,5493
+Negative/Nil income,Melton - Bacchus Marsh,8839
+Negative/Nil income,Wyndham,13246
+$1-$199       ,Darebin - South,2473
+$1-$199       ,Melton - Bacchus Marsh,7472
+$200-$299   ,Darebin - North,9792
+$200-$299   ,Keilor,5540
+$200-$299   ,Sunbury,2472
+$200-$299   ,Dandenong,19656
+$200-$299   ,Wyndham,11035
+$400-$599,Kingston,10122
+$400-$599,Tullamarine - Broadmeadows,11272
+$600-$799,Stonnington - West,3777
+$600-$799,Kingston,9101
+$600-$799,Tullamarine - Broadmeadows,11184
+$800-$999 ,Essendon,3936
+$800-$999 ,Nillumbik - Kinglake,4314
+$800-$999 ,Sunbury,2860
+$800-$999 ,Maribyrnong,4754
+"$1,000-$1,249  ",Darebin - South,3729
+"$1,000-$1,249  ",Macedon Ranges,1829
+"$1,000-$1,249  ",Monash,10135
+"$1,250-$1,499",Nillumbik - Kinglake,3487
+"$1,250-$1,499",Casey - South,5196
+"$1,500-$1,999",Bayside,5864
+"$1,500-$1,999",Banyule,7421
+"$1,500-$1,999",Yarra Ranges,6691
+"$1,500-$1,999",Cardinia,3160
+"$2,000 or more ",Maroondah,4281
+Personal income not stated,Manningham - West,4200
+Personal income not stated,Macedon Ranges,1268
+Personal income not stated,Knox,6949
+Personal income not stated,Melton - Bacchus Marsh,7773
+Total,Stonnington - West,48489
+Total,Hobsons Bay,64970

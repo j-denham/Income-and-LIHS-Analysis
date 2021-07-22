@@ -1,0 +1,96 @@
+LIHS Metric,Correlation Strength (2016)
+Weekly Household Income,1.0
+Rent and Mortgage Payments - Census Average monthly household mortgage payment ($).,0.8689598781276109
+Rent and Mortgage Payments - Census Average monthly household rental payment ($).,0.725141720816283
+Method of Travel to Work - Employed Persons - Census People who travelled to work by public transport (no.).,0.537163142554381
+"Dwelling Structure - Private dwellings - Census Semi-detached, row or terrace house, townhouse etc. (no.).",0.47804774206826434
+Method of Travel to Work - Employed Persons - Census Used one method - Bicycle (no.).,0.4424562629419613
+Method of Travel to Work - Employed Persons - Census Used one method - Train (no.).,0.4345709322177947
+Method of Travel to Work - Employed Persons - Census Total - used more than one method (no. ).,0.42918255394013516
+Method of Travel to Work - Employed Persons - Census Used one method - Tram (no.).,0.42619610917432765
+Social Marital Status & Registered Marital Status - Persons aged 15 years and over - Census Never Married (%).,0.3991693357927847
+Method of Travel to Work - Employed Persons - Census Used one method - Motor bike/scooter (no.).,0.3858320163188542
+Dwelling Structure - Private dwellings - Census Flat or apartment (no.).,0.3803521148166203
+Method of Travel to Work - Employed Persons - Census Other - Worked from home (no.).,0.31852896698041117
+Method of Travel to Work - Employed Persons - Census Total employed (no.).,0.30699780459171433
+Households by Type - Census Group households (no.).,0.306606884060876
+Method of Travel to Work - Employed Persons - Census Used one method - Total  (no.).,0.28962377756709967
+Social Marital Status & Registered Marital Status - Persons aged 15 years and over - Census Married in a de facto marriage (no.).,0.2859331873345009
+Method of Travel to Work - Employed Persons - Census Other - Employed but did not go to work (no.).,0.2665881742799636
+Tenure Type - Occupied private dwellings - Census Rented (%).,0.2627026754739114
+Method of Travel to Work - Employed Persons - Census Used one method - Taxi (no.).,0.2328630683691686
+Families by Type - Census Couple families with children under 15 and/or dependent students (no.).,0.2046750747426094
+Method of Travel to Work - Employed Persons - Census Used one method - Walked only (no.).,0.18544342178414158
+Families by Type - Census Couple families without children (no.).,0.1573325990810635
+Households by Type - Census Total households (no.).,0.15344611832144278
+Households by Type - Census Lone person households (no.).,0.1474751893343073
+Families by Type - Census Other families (no.).,0.14528276324980674
+Method of Travel to Work - Employed Persons - Census Used one method - Car (as driver) (no.).,0.1449492217083624
+Dwelling Structure - Private dwellings - Census Total private dwellings (no.).,0.14405910342289507
+Method of Travel to Work - Employed Persons - Census People who travelled to work by car as driver or passenger (no.).,0.13881224400596462
+Dwelling Structure - Private dwellings - Census Dwelling structure not stated (no.).,0.12354164221976523
+Families by Type - Census Total families (no.).,0.12192420599358696
+Social Marital Status & Registered Marital Status - Persons aged 15 years and over - Census Married in a registered marriage (no.).,0.12119664985773336
+Social Marital Status & Registered Marital Status - Persons aged 15 years and over - Census Not married (no.).,0.1177486992927937
+Households by Type - Census Family households (no.).,0.11160201613816853
+Household Stress - Census Households with rent payments greater than or equal to 30% of household income (%).,0.09325528321235733
+Unpaid Child Care - Proportion of persons aged 15 years and over - Census Persons who cared for own child/children (%).,0.09287011359752452
+Method of Travel to Work - Employed Persons - Census Used one method - Bus (no.).,0.07992524342520713
+Unpaid Child Care - Proportion of persons aged 15 years and over - Census Persons who cared for own child/children and other child/children (%).,0.07423424076707806
+Unpaid Child Care - Proportion of persons aged 15 years and over - Census Persons who did not provide child care (%).,0.06732516758788613
+Tenure Type - Occupied private dwellings - Census Owned with a mortgage (%).,0.056968344335724994
+Method of Travel to Work - Employed Persons - Census Used one method - Other (no.).,0.051260192172546126
+Method of Travel to Work - Employed Persons - Census Used one method - Ferry (no.).,0.04256866361980899
+Household Stress - Census Households with mortgage repayments greater than or equal to 30% of household income (%).,0.03590648581294225
+"Homelessness - Census Homeless rate per 10,000 persons (rate).",0.020363210760348346
+Households by Type - Census Average household size (no. of persons).,-0.00020623721191833183
+Families by Type - Census Average family size (no. of persons).,-0.004399389104738891
+Families by Type - Census Couple families with non-dependent children only (no.).,-0.014299640295633126
+Household Stress - Census Households where mortgage repayments are less than 30% of household income (%).,-0.022222416282398603
+Unpaid Work - Persons aged 15 years and over - Census Persons undertaking voluntary work for an organisation or group (%).,-0.034602591574135644
+Method of Travel to Work - Employed Persons - Census Used one method - Car (as passenger) (no.).,-0.059345864846716286
+Method of Travel to Work - Employed Persons - Census Other - Method of travel not stated (no.).,-0.074733359873003
+Household Stress - Census Households where rent payments are less than 30% of household income (%).,-0.09139806507128204
+Unpaid Child Care - Proportion of persons aged 15 years and over - Census Persons who cared for other child/children (%).,-0.09400089693576573
+Families by Type - Census One parent families with non-dependent children only (no.).,-0.10537356674846401
+SA2 Code,-0.12774135907351614
+Dwelling Structure - Private dwellings - Census Separate house (no.).,-0.12847626628198325
+Tenure Type - Occupied private dwellings - Census Other tenure type (%).,-0.16261048900142566
+Dwelling Structure - Private dwellings - Census Other dwelling (no.).,-0.1655401923153204
+Social Marital Status & Registered Marital Status - Persons aged 15 years and over - Census Married (%).,-0.16708913670372938
+Unpaid Child Care - Proportion of persons aged 15 years and over - Census Unpaid Child Care - Not stated (%).,-0.17737609960670322
+Families by Type - Census One parent families with children under 15 and/or dependent students (no.).,-0.18960900677739975
+Method of Travel to Work - Employed Persons - Census Used one method - Truck (no.).,-0.24120184749455123
+Tenure Type - Occupied private dwellings - Census Owned Outright (%).,-0.26041715265948506
+Count of All Children in Family - Census Average number of all children in a family (no.).,-0.2948930727055416
+Unpaid Work - Persons aged 15 years and over - Census Persons who provided unpaid assistance to a person with a disability (%).,-0.31675035509695854
+Social Marital Status & Registered Marital Status - Persons aged 15 years and over - Census Divorced (%).,-0.3629342887260458
+Social Marital Status & Registered Marital Status - Persons aged 15 years and over - Census Widowed (%).,-0.41051534430226766
+Tenure Type - Occupied private dwellings - Census Tenure Type not stated (%).,-0.463321654804015
+Social Marital Status & Registered Marital Status - Persons aged 15 years and over - Census Separated (%).,-0.5380804545909437
+Experimental Index of Household Advantage and Disadvantage (IHAD) - Census Households assigned to IHAD quartile 2 (%).,
+Experimental Index of Household Advantage and Disadvantage (IHAD) - Census Households assigned to IHAD quartile 4 (most advantaged) (%).,
+Experimental Index of Household Advantage and Disadvantage (IHAD) - Census Households assigned to IHAD quartile 3 (%).,
+Access to Internet at Home - Occupied Private Dwellings - Census Access to Internet at Home - Inadequately described or not stated (%).,
+Housing Suitability - Occupied private dwellings - Census Dwellings with bedrooms spare (no.).,
+Socio-Economic Indexes for Areas (SEIFA) - State Deciles - Census SEIFA state decile ranking - Index of Education and Occupation (IEO).,
+Socio-Economic Indexes for Areas (SEIFA) - State Deciles - Census SEIFA state decile ranking - Index of Relative Socio-Economic Disadvantage (IRSD).,
+Experimental Index of Household Advantage and Disadvantage (IHAD) - Census Households assigned to IHAD quartile 1 (most disadvantaged) (%).,
+Gifts/donations reported by taxpayers - Year ended 30 June Persons (no.).,
+Commuting to Work - Census Average commuting distance to place of work (kms).,
+Experimental Index of Household Advantage and Disadvantage (IHAD) - Census Households not assigned an IHAD score / Not applicable  (%).,
+Gifts/donations reported by taxpayers - Year ended 30 June Median ($).,
+Socio-Economic Indexes for Areas (SEIFA) - Australia Deciles - Census SEIFA Australia decile ranking - Index of Relative Socio-Economic Disadvantage (IRSD).,
+Access to Internet at Home - Occupied Private Dwellings - Census Internet accessed from dwelling (%).,
+Commuting to Work - Census Average commuting distance from Place of Usual Residence (kms).,
+Housing Suitability - Occupied private dwellings - Census Dwellings with extra bedrooms needed (no.).,
+Commuting to Work - Census Median commuting distance from Place of Usual Residence (kms).,
+Housing Suitability - Occupied private dwellings - Census Dwellings with no bedrooms needed or spare (no.).,
+Socio-Economic Indexes for Areas (SEIFA) - Australia Deciles - Census SEIFA Australia decile ranking - Index of Economic Resources (IER).,
+Socio-Economic Indexes for Areas (SEIFA) - State Deciles - Census SEIFA state decile ranking - Index of Relative Socio-Economic Advantage and Disadvantage (IRSAD).,
+Socio-Economic Indexes for Areas (SEIFA) - Australia Deciles - Census SEIFA Australia decile ranking - Index of Relative Socio-Economic Advantage and Disadvantage (IRSAD).,
+Access to Internet at Home - Occupied Private Dwellings - Census Internet not accessed from dwelling (%).,
+Commuting to Work - Census Median commuting distance to place of work (kms).,
+Socio-Economic Indexes for Areas (SEIFA) - State Deciles - Census SEIFA state decile ranking - Index of Economic Resources (IER).,
+Year.,
+Socio-Economic Indexes for Areas (SEIFA) - Australia Deciles - Census SEIFA Australia decile ranking - Index of Education and Occupation (IEO).,
